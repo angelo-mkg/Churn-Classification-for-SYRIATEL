@@ -30,10 +30,10 @@ Target Variable Use: Determine whether or not a customer will churn or out of th
 
 ### Random Forests were chosen due to the following metrics:
 
-Model Test Precision: 0.8205128205128205
-Model Test Recall: 0.8767123287671232
-Model Test Accuracy: 0.954
-Model Test F1: 0.847682119205298
+Model Test Precision: 0.82
+Model Test Recall: 0.87
+Model Test Accuracy: 0.95
+Model Test F1: 0.84
 
 ### Feature Importance Exploration:
 
@@ -41,13 +41,13 @@ Customer Service Calls, Data Time Minutes and Day Time Charges were found to be 
 
 ### Raw Data Exploration:
 
-Mean of Customer Service Calls For Non Churners: 1.4498245614035088
-Standard Deviation of Customer Service Calls: 1.3152936866709521
-Mean of Customer Service Calls for Churners: 2.229813664596273
+Mean of Customer Service Calls For Non Churners: 1.44
+Standard Deviation of Customer Service Calls: 1.31
+Mean of Customer Service Calls for Churners: 2.22
 
-Mean of total day minutes Non Churners: 175.1757543859649
-Standard Deviation of total day minutes: 54.45921766392581
-Mean of total day minutes for Churners: 206.91407867494823
+Mean of total day minutes Non Churners: 175.17
+Standard Deviation of total day minutes: 54.45
+Mean of total day minutes for Churners: 206.91
 
 Churners displayed higher usage of their plans, and also a greater amount of customer service calls.
 
